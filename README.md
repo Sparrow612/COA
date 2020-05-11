@@ -1,2 +1,3 @@
 # COA
-Computer Organization and Architecture
+## Computer Organization and Architecture
+This is a good instance of Design Patterns.
